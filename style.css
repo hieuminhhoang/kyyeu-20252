@@ -15,7 +15,7 @@ body{
 
   background:
     linear-gradient(rgba(0,0,0,.6), rgba(0,0,0,.75)),
-    url("bg.jpg");
+    background-image: url("./bg.jpg");
   background-size:cover;
   background-position:center;
   background-repeat:no-repeat;
@@ -275,6 +275,7 @@ h1{
   0%,100%{ opacity:.12; }
   50%{ opacity:.22; }
 }
+
 
 
 
